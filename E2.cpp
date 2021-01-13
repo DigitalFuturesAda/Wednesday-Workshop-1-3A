@@ -31,7 +31,7 @@ int main() {
     std::cout << "Add another (y/n): "; // add names
     getline(std::cin, another);
 
-    if (another == "n" || another == "n"){
+    if (another == "n" || another == "N"){
       editting = false; // exit
     }
 
