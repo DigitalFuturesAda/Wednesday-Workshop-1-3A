@@ -1,4 +1,4 @@
-# Wednesday-Workshop-C
+# Wednesday-Workshop-1-3A
 
 ## Exercise 1: File Exists - Checks if a file exists.
 **Code functions and runs as expected**
